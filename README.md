@@ -15,7 +15,7 @@ Open `http://127.0.0.1:5173/`.
 
 ```powershell
 npm run build
-```
+``` 
 
 ## Current Scope
 
